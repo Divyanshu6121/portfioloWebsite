@@ -1,2 +1,59 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divyanshu Mishra - Portfolio Website </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <h1>Divyanshu Mishra</h1>
+                <ul>
+                    <li><a href="#about">I am a student of University of Allahabad</a></li>
+                    
+                    <li><a href="#contact">ankitmishra8948422996@gmail.com</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hello everybody! Welcome to my profile! I'm Divyanshu Mishra, and I'm right now studyin Digital marketing Framework,Seo for beginners and Artificial intelligence with python on a great learning platform. I also completed Google Analytics. If you want to contact me further, you can drop me a mail..</p>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <div class="container">
+            <h2></h2>
+               
+            </div>
+            <!-- Add more projects as needed -->
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Email: ankitmishra8948422996@gmail.com</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/divyanshu-mishra-48936118a/">linkedin.com/in/yourname</a></p>
+            <!-- Add more contact information as needed -->
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Your Name. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+
+</html>
